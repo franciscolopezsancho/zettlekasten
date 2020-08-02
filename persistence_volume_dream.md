@@ -1,0 +1,5 @@
+Persistence Volume Deputy
+
+In Kubernetes there's platonic relation among the containers and their disk memory. A container can't access to it's memory directly. This is done through a petition a pod can attach to a container through a Deployment?. This petition is called Persistence Volumen Claim. Turn out the Deployment is also a wishful thinker and it doesn't have access to a real disk, but he has some means. When it needs to provide read or write access to a disk call the last link in the chain. It calls the Persistence Volume, this is the one that has an Storage class that defines it's relation with a type of disks. a provisioner, which is the type of disk he has access to. A retain policy.
+
+My question is why in PV doesn't override each other. Answer, the are mounted in specific paths in specific disks. 

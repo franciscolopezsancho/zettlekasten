@@ -1,4 +1,4 @@
-Serializability on a triangule
+Serializability on a triangle
 
 Let's put out there three different serializability solutions. 
 

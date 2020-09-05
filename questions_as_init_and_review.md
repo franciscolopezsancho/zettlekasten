@@ -1,0 +1,1 @@
+Knowledge needs a question to start, which doesn't imply its concepts shall we reviewed under the same interrogation each time.

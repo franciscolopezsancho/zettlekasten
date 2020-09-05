@@ -9,6 +9,6 @@ Read write uncommited avoids nothing.
 
 [Source](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
-[Author]: martin_kleppman.md
+[Author]: authors/martin_kleppman.md
 
 [link]: serializability_on_a_triangule.md

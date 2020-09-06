@@ -4,6 +4,5 @@ Infinity is defined counting all the natural numbers (pairing) against each set 
 
 Source: isbn 9781782830818, Chapter 5
 
-Author: 
-[Eugenia Cheng](authors/eugenia_cheng.md)
+Author: [Eugenia Cheng](authors/eugenia_cheng.md)
 

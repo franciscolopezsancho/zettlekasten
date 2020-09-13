@@ -8,6 +8,7 @@ We must use it everywhere, anything you point at has to be. But Being doesn't po
 Links:
 
 [Doubting must propose](doubting_must_propose.md)
+
 [La primera pregunta](la_primera_pregunta.md)
 
 

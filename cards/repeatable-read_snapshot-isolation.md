@@ -3,4 +3,4 @@
 
 [Source](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
-[Author](../authors/martin_kleppman.md)
+Author: [Martin Kleppman](../authors/martin_kleppman.md)

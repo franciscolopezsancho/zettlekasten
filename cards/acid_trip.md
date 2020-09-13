@@ -10,8 +10,10 @@ Isolation has four levels with five implementations. Serializable, snapshot isol
 
 Consistency, not the same from CAP. Is a property of the application that uses the DB. As keeping invariant a the output of a function. As the total balance to zero in an account.  
 
+Links:
+[Acid Isolation](acid_isolation.md)
+
 [Source](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
 [Author]: martin_kleppman.md
 
-[link]: acid_isolation.md

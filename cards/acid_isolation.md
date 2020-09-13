@@ -1,14 +1,20 @@
-# Acid Isolation (REVIEW)
-Serializable, comes from serial, one after another. And avoids the write skew. No transaction is affected by any other in the sense the the reads that beging with have to stay the same until its writes and commit happens.
+# Acid Isolation
 
-Repeatable read will block the rest of the DB while in its same level Snapshot Isolation or MVCC will be consistent in the reads of an specific version. These two avoid reads skews which could happend in iterleaved reads.
+There are four levels of Isolation used to tackle different problems that when dealing with transactions. 
+This problems are:
+**Write Skew** that is like a read skew with a write inside the transaction. So when a premise used to choose a write can be altered before the write gets commited. 
 
-Read write committed will avoid a dirty reads these means uncommited reads. And dirty writes.
+**Read Skew** happens when a transaction interleaves reading a register that it's going to be changed inside another transaction that has already started but not yet commited.  
 
-Read write uncommited avoids nothing.
+**Read (write) committed** will avoid that two transactions can alter the same register until one or the other has finished. Has commited. It avoids what it's called **Dirty Writes**.
+
+**Read (write) uncommited** avoids nothing.
+
+Links: 
+[Serializable](serializable.md)
+[Repeatable Read and Snapshot Isolation](repeatable-read_snapshot-isolation.md)
+
 
 [Source](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
 [Author]: authors/martin_kleppman.md
-
-[link]: serializability_on_a_triangule.md

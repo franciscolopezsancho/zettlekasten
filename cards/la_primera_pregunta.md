@@ -1,5 +1,6 @@
 La primera pregunta es una paradoja, empieza presuponiendo el conocimiento de lo que pregunta.
 Que es el ser? Si su respuesta fuera el ser de un ente, seria mitologia
+
 El modo de acceso a lo que nos hemos de dirigir y a lo que nos hemos de dirigir, el preguntar y el ente ejemplares son nuestro metodo y meta.
 
 Somos nosotros mismos los seres que preguntamos y nuestro modo de ser el que pregunta. Somos el ser ejemplar y el modo de acceso. Heidegger dice "Dasein"

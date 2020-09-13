@@ -24,7 +24,7 @@ Visit to Moma
 
 [Observability a table with three legs](cards/observability_a_table_with_three_legs.md)
 
-[How you like your circles?](cards/how_you_like_your_circles.md)
+[La primera pregunta](cards/la_primera_pregunta.md)
 
 [Pentagon in a Kube](cards/pentagon_in_a_kube.md)
 

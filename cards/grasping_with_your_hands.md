@@ -1,0 +1,3 @@
+Is not that while you're thinking, trying to make sense out the world you're aiming to build a structure that can be applied in another field. Is not that the meaning and properties of your concepts can be after used while thinking be applied to cover what they mean. Thinking is like touching with your hands, building a house with your ideas while you're out of your mind. Being in flow. Just manipulating the concepts. And when you grap it, closing you hands over it you inevitably touch yourself. Getting aware of what you're doing.  
+
+No refs

@@ -7,6 +7,8 @@ Links:
 
 [Doubting must propose](doubting_must_propose.md)
 
+[La primera pregunta](la_primera_pregunta.md)
+
 
 Source: First page of Time and Being
 

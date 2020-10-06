@@ -3,3 +3,7 @@ A monad adds state to functional programming, without losing composition. Also a
 [Source](https://www.youtube.com/watch?v=gHiyzctYqZ0&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_&index=19)
 
 Author: [Bartosz Milesski](../authors/bartosz_milewski.md)
+
+Links:
+
+[Data as abstraction](data_as_abstraction.md)

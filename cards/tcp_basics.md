@@ -4,6 +4,7 @@ Data is transfered as a continuous streams of octets, multiplexing, allowing cre
 Links:
 
 [Classless is more, CIDR](classless_is_more.CIDR.md)
+[Observationality equivalence to Session Types](observationaly_equivalence_to_sessions_types.md)
 
 
 Source: https://tools.ietf.org/html/rfc793#section-1.5

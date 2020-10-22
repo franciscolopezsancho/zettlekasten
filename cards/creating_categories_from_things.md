@@ -18,3 +18,5 @@ Links:
 [Origin of ADTs](origin_of_ADTs.md)
 
 [Category as four Musketeers](categories_as_four_musketeers.md)
+
+[Curry Howards Equivalence](Curry-Howard_equivalence.md)

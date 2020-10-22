@@ -5,6 +5,7 @@ Links:
 
 [Classless is more, CIDR](classless_is_more.CIDR.md)
 [Observationality equivalence to Session Types](observationaly_equivalence_to_sessions_types.md)
+[RPC, REST and GRAPHQL](rpc_rest_graphql.md)
 
 
 Source: https://tools.ietf.org/html/rfc793#section-1.5

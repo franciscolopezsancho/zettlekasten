@@ -9,6 +9,7 @@ Links:
 
 [How you like your circles?](how_you_like_your_circles.md)
 [Grasping with your hands](grasping_with_your_hands.md)
+[Being, not a genus, not a thing, not in front](being_not_a_genus_not_a_thing_not_in_front.md)
 
 Source: $2 La estructura formal de la pregunta por el ser. Ser y tiempo. Traduccion de Jorge Eduardo Rivera
 

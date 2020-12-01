@@ -9,4 +9,4 @@ Links:
 [Observational equivalence to session types](observationaly_equivalence_to_sessions_types.md)
 
 Author:
-[Harry Potter](../authors/harry_potter.md)
+[Harry Porter](../authors/harry_porter.md)

@@ -1,0 +1,1 @@
+The halting problem is solved in lambda calculus if not infinite recursive funtion is allowed.

@@ -11,6 +11,7 @@ Links:
 
 [Bills and Money Markets](bills_and_money_markets.md)
 
+[Success disctract us from the value underneath](success-is-distraction-of-the-value-underneath.md)
 
 Source: https://www.coursera.org/learn/money-banking/lecture/8QmPS/central-themes
 

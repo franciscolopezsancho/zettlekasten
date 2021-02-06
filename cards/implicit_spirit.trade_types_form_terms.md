@@ -1,5 +1,3 @@
-History of scala implicits
-
 2004. Implicit conversion
 We can not extends after the fact two classes exists, so let's create an automatic wrapper.
 

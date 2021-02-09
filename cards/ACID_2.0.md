@@ -6,6 +6,7 @@ Links:
 Source:
 https://www.youtube.com/watch?v=EWSRbRUH7pg&t=771s
 https://database.cs.wisc.edu/cidr/cidr2009/Paper_133.pdf
+https://www.enterpriseintegrationpatterns.com/ramblings/68_acid.html
 
 Author:
 [Pat Helland](../authors/pat_helland.md)

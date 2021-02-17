@@ -1,9 +1,10 @@
-Serializability is the possiblity of a transaction of making look as different operations are order one after the other. Linearizability is, among other, the capacity of producing the ilussion that each operation applied by concurrent processes occurs instantly, so the same concurrent object as input of an operation always produces the same output.  
+Serializability the possibility to express a transaction as a set of set of operations over a set of objects as a sequence of operations, one after the other, therefore with an arbitrary total order. Therefore a program can run that arbitraly sequence. Linearizability is the possibility of a set of operations over an object to be delineate like having order respect a common time, so any read will always give you the write before.  
 
 Source:
 [Pat helland]https://www.youtube.com/watch?v=V8TcEWdx2Q8&ab_channel=FunctionalTV
 [Linearizability: A Correctness Condition for
 Concurrent Objects ](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf)
+[Linearizability vs Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/#:~:text=Serializability%20is%20a%20guarantee%20about,over%20one%20or%20more%20objects.&text=Unlike%20linearizability%2C%20serializability%20does%20not,Serializability%20is%20also%20not%20composable.)
 
 Links:
 [Serializable](serializable.md)
@@ -11,3 +12,5 @@ Links:
 Authors:
 [Pat Helland](../authors/pat_helland.md)
 [Maurice Herlihy](../authors/maurice_herlihy.md)
+
+

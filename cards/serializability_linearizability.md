@@ -1,4 +1,5 @@
-Serializability the possibility to express a transaction as a set of set of operations over a set of objects as a sequence of operations, one after the other, therefore with an arbitrary total order. Therefore a program can run that arbitraly sequence. Linearizability is the possibility of a set of operations over an object to be delineate like having order respect a common time, so any read will always give you the write before.  
+Serializability is the possibility to express a transaction as a set of a set of operations over a set of objects as a sequence of operations, one after the other with an arbitrary total order. Therefore a program can run that arbitraly sequence.
+Linearizability is the possibility of a set of operations over an object to be delineate like having order respect a common time, so any read will always give you the write before.  
 
 Source:
 [Pat helland]https://www.youtube.com/watch?v=V8TcEWdx2Q8&ab_channel=FunctionalTV

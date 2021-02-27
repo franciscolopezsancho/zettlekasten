@@ -1,5 +1,4 @@
-
-
+Consensus over value v.
 ## Events:
 - Request(v)
 - Decide(v)

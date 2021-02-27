@@ -12,6 +12,7 @@ Consistency, not the same from CAP. Is a property of the application that uses t
 
 Links:
 [Acid Isolation](acid_isolation.md)
+[ACID 2.0](ACID_2.0.md)
 [Specification of Consensus](specification_of_consensus.md)
 
 [Source](https://www.youtube.com/watch?v=5ZjhNTM8XU8)

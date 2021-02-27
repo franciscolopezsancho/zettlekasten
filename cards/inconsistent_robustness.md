@@ -2,6 +2,7 @@ We've been dreaming with consistency as a barrier that protect us from the unkno
 
 Links:
 [](logic_consistency_bridge_to_software.md)
+[](the_truth_is_in_the_log.md)
 
 Source:
 [Scalable Inconsistency Robust information system](https://www.youtube.com/watch?v=_R65RrishcY&ab_channel=InconsistencyRobustness)

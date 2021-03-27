@@ -1,0 +1,6 @@
+Time is not like space. There is not now here, and then past and future like back and front. Time is the unit of before and after. From yesterday to today, a day has passed. One unit, one day. I went to the groceries and then I left the shop, unit. I just realise I thought this thought and wrote it. The change of mind, from before and after is time, unit. One cycle of a celsium clock, one change of energy in its wave.
+Now if we focus in this smallest duration we know, and use it to compare to other durations we have useful proportions. We can use them to predict, and meassure but there is something missing. Now, the duration of this clock here, it can't be tranported, compared there, because diferent places imply the duration from here to there. Time and space seemed linked and complementary. The here and there imply time, you might think you can think both at the same time but not even this is possible. First one, then the other. You might think you can abstract time, as not essential, but that's an arbitrary elimination. You might think two things at the same time, though. Like two. Or even three. But once you add space, you add time. Not sure the inverse though.
+
+Links:
+[](what_time_is_not.md)
+[](aristotle_time_change_and_ground.md)

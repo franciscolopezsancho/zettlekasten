@@ -11,5 +11,6 @@ Links:
 
 [Aristotle time change and ground](aristotle_time_change_and_ground.md)
 [](logic_consistency_bridge_to_software.md)
+[](time-is-a-unit-not-a-continuum.md)
 
 Author: [Carlo Rovelli](../authors/carlo_rovelli.md)

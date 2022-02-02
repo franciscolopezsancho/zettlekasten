@@ -1,6 +1,9 @@
 par - change between state bank money and private money. Keep it at the same rate is a difficult task.
+
 interest rate - change between money today and tomorrow
+
 exchange rate - change between money from a country (could be dollar) and international dollar (mostly private)
+
 price level - change between money and commodities
 
 Links:

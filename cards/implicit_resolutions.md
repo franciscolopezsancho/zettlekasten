@@ -5,5 +5,6 @@
 - Importing with a wildcard `mylibrary._` is very powerful for writers but very obscure for end-users.
 
 Source: https://www.youtube.com/watch?v=uPd9kJq-Z8o
+[](goto_inconveniences.md)
 
 Authors: [Maring Odersky](../authors/martin_odersky.md)

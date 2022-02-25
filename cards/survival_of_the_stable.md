@@ -4,6 +4,8 @@ Links:
 
 [Virus, most selfish and giver](virus_most_selfish_and_giver.md)
 
+[](selfish_altruism.md)
+
 
 Source: ISBN-13: 978-0192860927
 
